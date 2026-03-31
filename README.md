@@ -1,7 +1,5 @@
 # QuickNotes ✨ - Modern iOS Note Taking
 
-![QuickNotes Poster](./Images/Notes-Poster.jpg)
-
 QuickNotes is a clean, efficient, and visually stunning note-taking application designed for the modern iOS ecosystem. Built with a focus on simplicity and a premium user experience, it allows you to capture your thoughts instantly and manage them with ease.
 
 ## 🚀 Key Features
