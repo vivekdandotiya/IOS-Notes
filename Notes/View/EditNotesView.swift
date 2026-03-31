@@ -93,3 +93,4 @@ struct EditNotesView: View {
         vm.updateNote(note, title: title, content: content)
     }
 }
+ 
