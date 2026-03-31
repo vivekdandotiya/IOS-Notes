@@ -27,3 +27,4 @@ struct ListCellView: View {
         .padding(.vertical, 8)
     }
 }
+ 
