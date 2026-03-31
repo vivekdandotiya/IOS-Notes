@@ -35,3 +35,4 @@ The vision for QuickNotes was to create a note-taking experience that feels pers
 *Created with ❤️ by the QuickNotes team.*
 
  
+ 
